@@ -1,0 +1,11 @@
+.contenedor-notificaciones{
+    padding: 5px;
+    margin: 20px;
+}
+.alert{
+    width: 50%;
+    margin: auto;   
+}
+.tirulo{
+    padding: 5px;
+}
